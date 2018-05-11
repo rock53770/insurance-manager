@@ -1,0 +1,441 @@
+{
+    "code": 1,
+    "message": "成功!",
+    "object": [{
+        "name": "车辆类型",
+        "type": 1,
+        "isSpecial": false,
+        "parentID": 0,
+        "fieldName": "carType",
+        "createTime": 1524646335000,
+        "childItems": [],
+        "selections": [{
+            "itemID": 1,
+            "name": "正常车",
+            "value": "0",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524646485000,
+            "id": 1
+        },
+        {
+            "itemID": 1,
+            "name": "过户车",
+            "value": "1",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524646511000,
+            "id": 2
+        },
+        {
+            "itemID": 1,
+            "name": "新车",
+            "value": "2",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524646519000,
+            "id": 3
+        },
+        {
+            "itemID": 1,
+            "name": "类新车",
+            "value": "3",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524646520000,
+            "id": 4
+        }],
+        "id": 1
+    },
+    {
+        "name": "出险次数",
+        "type": 1,
+        "isSpecial": false,
+        "parentID": 0,
+        "fieldName": "lastCommercialClaimCount",
+        "createTime": 1524646567000,
+        "childItems": [],
+        "selections": [{
+            "itemID": 2,
+            "name": "1",
+            "value": "true",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524648194000,
+            "id": 56
+        },
+        {
+            "itemID": 2,
+            "name": "2",
+            "value": "false",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524648197000,
+            "id": 66
+        }],
+        "id": 2
+    },
+    {
+        "name": "是否提高折扣",
+        "type": 1,
+        "isSpecial": false,
+        "parentID": 0,
+        "fieldName": "isImproveCommission",
+        "createTime": 1524647222000,
+        "childItems": [],
+        "selections": [{
+            "itemID": 3,
+            "name": "是",
+            "value": "true",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524648194000,
+            "id": 5
+        },
+        {
+            "itemID": 3,
+            "name": "否",
+            "value": "false",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524648197000,
+            "id": 6
+        }],
+        "id": 3
+    },
+    {
+        "name": "车辆种类",
+        "type": 2,
+        "isSpecial": false,
+        "parentID": 0,
+        "fieldName": "carType",
+        "createTime": 1524648263000,
+        "childItems": [{
+            "name": "使用性质",
+            "type": 1,
+            "isSpecial": false,
+            "parentID": 4,
+            "fieldName": "useNature",
+            "createTime": 1524648270000,
+            "childItems": null,
+            "selections": [{
+                "itemID": 5,
+                "name": "家庭自用",
+                "value": "1",
+                "parentID": 7,
+                "parentValue": "1",
+                "createTime": 1524648418000,
+                "id": 9
+            },
+            {
+                "itemID": 5,
+                "name": "非营业客车",
+                "value": "2",
+                "parentID": 7,
+                "parentValue": "1",
+                "createTime": 1524648739000,
+                "id": 10
+            },
+            {
+                "itemID": 5,
+                "name": "营业客车",
+                "value": "3",
+                "parentID": 7,
+                "parentValue": "1",
+                "createTime": 1524648758000,
+                "id": 11
+            },
+            {
+                "itemID": 5,
+                "name": "非营运货车",
+                "value": "4",
+                "parentID": 8,
+                "parentValue": "2",
+                "createTime": 1524648799000,
+                "id": 12
+            },
+            {
+                "itemID": 5,
+                "name": "营运货车",
+                "value": "5",
+                "parentID": 8,
+                "parentValue": "2",
+                "createTime": 1524648800000,
+                "id": 13
+            },
+            {
+                "itemID": 5,
+                "name": "特种车",
+                "value": "6",
+                "parentID": 8,
+                "parentValue": "2",
+                "createTime": 1524648800000,
+                "id": 14
+            },
+            {
+                "itemID": 5,
+                "name": "挂车",
+                "value": "7",
+                "parentID": 8,
+                "parentValue": "2",
+                "createTime": 1524648802000,
+                "id": 15
+            }],
+            "id": 5
+        }],
+        "selections": [{
+            "itemID": 4,
+            "name": "客车",
+            "value": "1",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524648390000,
+            "id": 7
+        },
+        {
+            "itemID": 4,
+            "name": "货车",
+            "value": "2",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524648391000,
+            "id": 8
+        }],
+        "id": 4
+    },
+    {
+        "name": "按揭类型",
+        "type": 1,
+        "isSpecial": false,
+        "parentID": 0,
+        "fieldName": "isMortgage",
+        "createTime": 1524648908000,
+        "childItems": [],
+        "selections": [{
+            "itemID": 6,
+            "name": "按揭车",
+            "value": "true",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524648964000,
+            "id": 16
+        },
+        {
+            "itemID": 6,
+            "name": "非按揭车",
+            "value": "false",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524648965000,
+            "id": 17
+        }],
+        "id": 6
+    },
+    {
+        "name": "起保时间",
+        "type": 5,
+        "isSpecial": false,
+        "parentID": 0,
+        "fieldName": "commercialStartDate",
+        "createTime": 1524648997000,
+        "childItems": [],
+        "selections": [],
+        "id": 7
+    },
+    {
+        "name": "第三者责任险",
+        "type": 1,
+        "isSpecial": true,
+        "parentID": 0,
+        "fieldName": "",
+        "createTime": 1524649088000,
+        "childItems": [],
+        "selections": [{
+            "itemID": 8,
+            "name": "5万",
+            "value": "5万",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524649524000,
+            "id": 18
+        },
+        {
+            "itemID": 8,
+            "name": "10万",
+            "value": "10万",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524649524000,
+            "id": 19
+        },
+        {
+            "itemID": 8,
+            "name": "15万",
+            "value": "15万",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524649524000,
+            "id": 20
+        },
+        {
+            "itemID": 8,
+            "name": "20万",
+            "value": "20万",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524649524000,
+            "id": 21
+        },
+        {
+            "itemID": 8,
+            "name": "30万",
+            "value": "30万",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524649524000,
+            "id": 22
+        },
+        {
+            "itemID": 8,
+            "name": "50万",
+            "value": "50万",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524649524000,
+            "id": 23
+        },
+        {
+            "itemID": 8,
+            "name": "100万",
+            "value": "100万",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524649524000,
+            "id": 24
+        },
+        {
+            "itemID": 8,
+            "name": "150万",
+            "value": "150万",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524649524000,
+            "id": 25
+        },
+        {
+            "itemID": 8,
+            "name": "200万",
+            "value": "200万",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524649524000,
+            "id": 26
+        }],
+        "id": 8
+    },
+    {
+        "name": "单三者",
+        "type": 6,
+        "isSpecial": true,
+        "parentID": 0,
+        "fieldName": "",
+        "createTime": 1524649869000,
+        "childItems": [],
+        "selections": [],
+        "id": 9
+    },
+    {
+        "name": "机动车损失险",
+        "type": 4,
+        "isSpecial": true,
+        "parentID": 0,
+        "fieldName": "",
+        "createTime": 1524649901000,
+        "childItems": [],
+        "selections": [],
+        "id": 10
+    },
+    {
+        "name": "新车购置价",
+        "type": 4,
+        "isSpecial": false,
+        "parentID": 0,
+        "fieldName": "guildPrice",
+        "createTime": 1524649923000,
+        "childItems": [],
+        "selections": [],
+        "id": 11
+    },
+    {
+        "name": "过户车折扣",
+        "type": 3,
+        "isSpecial": false,
+        "parentID": 0,
+        "fieldName": "discountRate",
+        "createTime": 1524706672000,
+        "childItems": [],
+        "selections": [],
+        "id": 12
+    },
+    {
+        "name": "投保类型",
+        "type": 1,
+        "isSpecial": false,
+        "parentID": 0,
+        "fieldName": "reinsuranceType",
+        "createTime": 1524708018000,
+        "childItems": [],
+        "selections": [{
+            "itemID": 13,
+            "name": "续保",
+            "value": "0",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524708478000,
+            "id": 27
+        },
+        {
+            "itemID": 13,
+            "name": "转保",
+            "value": "1",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524708481000,
+            "id": 28
+        },
+        {
+            "itemID": 13,
+            "name": "外牌",
+            "value": "2",
+            "parentID": 0,
+            "parentValue": "",
+            "createTime": 1524708487000,
+            "id": 29
+        }],
+        "id": 13
+    },
+    {
+        "name": "座位数",
+        "type": 3,
+        "isSpecial": false,
+        "parentID": 0,
+        "fieldName": "carSeatCount",
+        "createTime": 1524708742000,
+        "childItems": [],
+        "selections": [],
+        "id": 14
+    },
+    {
+        "name": "管控车型",
+        "type": 6,
+        "isSpecial": false,
+        "parentID": 0,
+        "fieldName": "isControlModel",
+        "createTime": 1524708832000,
+        "childItems": [],
+        "selections": [],
+        "id": 15
+    }],
+    "map": {},
+    "handelEntity": null
+}

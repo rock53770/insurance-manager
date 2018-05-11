@@ -1,0 +1,33 @@
+{
+    "code": 1,
+    "message": "成功",
+    "object": [
+        {
+            "provinceCode": 11,
+            "provinceName": "浙江",
+            "provinceId": 1,
+            "cityCode": 21,
+            "cityName": "丽水"
+        },
+        {
+            "provinceCode": 11,
+            "provinceName": "浙江",
+            "provinceId": 1,
+            "cityCode": 22,
+            "cityName": "杭州"
+        },
+        {
+            "provinceCode": 15,
+            "provinceName": "江苏",
+            "provinceId": 2,
+            "cityCode": 21,
+            "cityName": "南京"
+        }, {
+            "provinceCode": 15,
+            "provinceName": "江苏",
+            "provinceId": 2,
+            "cityCode": 22,
+            "cityName": "常州"
+        }
+    ]
+}

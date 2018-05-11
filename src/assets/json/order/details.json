@@ -1,0 +1,355 @@
+{
+    "code": 1,
+    "message": "",
+    "object": {
+        "orderID": 12,
+        "currentHandlerID": "0001",
+        "acceptEmpID": "0001",
+        "currentHandlerUserType": 1,
+        "isExistAccount": 1,
+        "orderNum": 1111,
+        "brandID": 1,
+        "brandName": "这是品牌名",
+        "brandFactoryID": 11,
+        "brandFactoryName": "这是厂商名",
+        "engineNum": 123456,
+        "engineStatus": 1,
+        "vin": "14567123145671231",
+        "imgFileID": 1,
+        "imgPath": "http://private4s.beitaijf.net/download?fileID=14944",
+        "drivingLicenceImgFileID": 1,
+        "drivingLicenceImgPath": "http://private4s.beitaijf.net/download?fileID=149123",
+        "customerID": 11,
+        "customerName": "这是合作商名",
+        "createTime": 1231231231123,
+        "orderResultVo": {
+            "orderResultID": 1,
+            "lastTimeInShop": 123123,
+            "accidentsNum": 1,
+            "kilometers": 1000,
+            "odometerStatus": -1,
+            "odometerRemark": "321312",
+            "bigAccidentStatus":-1,
+            "burnStatus": 0,
+            "floodStatus": 1,
+            "structuralComponentStatus": 0,
+            "electricSafetyEquipmentStatus": 1,
+            "airBagStatus": 1,
+            "queryTime": 1213423423,
+            "engineStatus": 1,
+            "pictureList": [{
+                "pictureID": 1,
+                "picturePath": "http://private4s.beitaijf.net/download?fileID=1491230",
+                "isAbnormal": 1
+            },{
+                "pictureID": 2,
+                "picturePath": "http://private4s.beitaijf.net/download?fileID=149126",
+                "isAbnormal": 0
+            }],
+            "describe": "啊沙发dads尽快发啊打发快来升级地方哈深刻搭街坊撒肯定就会发 地方皇家卡森的",
+            "resultType": 2,
+            "recordList":[
+                {
+                    "date": "2016-09-20",
+                    "kilometers": "10000",
+                    "type": "阿斯顿",
+                    "project": "XXX",
+                    "meterial": "XXX",
+                    "isAbnormal": "0",
+                    "pictures": [
+                        {
+                            "pictureID": 149418,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149418",
+                            "isAbnormal": 0
+                        },
+                        {
+                            "pictureID": 149419,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149419",
+                            "isAbnormal": 0
+                        }
+                    ]
+                },{
+                    "date": "2016-09-20",
+                    "kilometers": "10000",
+                    "type": "阿斯顿",
+                    "project": "XXX",
+                    "meterial": "XXX",
+                    "isAbnormal": "0",
+                    "pictures": [
+                        {
+                            "pictureID": 149418,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149418",
+                            "isAbnormal": 0
+                        },
+                        {
+                            "pictureID": 149419,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149419",
+                            "isAbnormal": 0
+                        }
+                    ]
+                },{
+                    "date": "2016-09-20",
+                    "kilometers": "10000",
+                    "type": "阿斯顿",
+                    "project": "XXX",
+                    "meterial": "XXX",
+                    "isAbnormal": "0",
+                    "pictures": [
+                        {
+                            "pictureID": 149418,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149418",
+                            "isAbnormal": 0
+                        },
+                        {
+                            "pictureID": 149419,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149419",
+                            "isAbnormal": 0
+                        }
+                    ]
+                },{
+                    "date": "2016-09-20",
+                    "kilometers": "10000",
+                    "type": "阿斯顿",
+                    "project": "XXX",
+                    "meterial": "XXX",
+                    "isAbnormal": "0",
+                    "pictures": [
+                        {
+                            "pictureID": 149418,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149418",
+                            "isAbnormal": 0
+                        },
+                        {
+                            "pictureID": 149419,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149419",
+                            "isAbnormal": 0
+                        }
+                    ]
+                },{
+                    "date": "2016-09-20",
+                    "kilometers": "10000",
+                    "type": "阿斯顿",
+                    "project": "XXX",
+                    "meterial": "XXX",
+                    "isAbnormal": "0",
+                    "pictures": [
+                        {
+                            "pictureID": 149418,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149418",
+                            "isAbnormal": 0
+                        },
+                        {
+                            "pictureID": 149419,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149419",
+                            "isAbnormal": 0
+                        }
+                    ]
+                },{
+                    "date": "2016-09-20",
+                    "kilometers": "10000",
+                    "type": "阿斯顿",
+                    "project": "XXX",
+                    "meterial": "XXX",
+                    "isAbnormal": "0",
+                    "pictures": [
+                        {
+                            "pictureID": 149418,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149418",
+                            "isAbnormal": 0
+                        },
+                        {
+                            "pictureID": 149419,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149419",
+                            "isAbnormal": 0
+                        }
+                    ]
+                },{
+                    "date": "2016-09-20",
+                    "kilometers": "10000",
+                    "type": "阿斯顿",
+                    "project": "XXX",
+                    "meterial": "XXX",
+                    "isAbnormal": "0",
+                    "pictures": [
+                        {
+                            "pictureID": 149418,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149418",
+                            "isAbnormal": 0
+                        },
+                        {
+                            "pictureID": 149419,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149419",
+                            "isAbnormal": 0
+                        }
+                    ]
+                },{
+                    "date": "2016-09-20",
+                    "kilometers": "10000",
+                    "type": "阿斯顿",
+                    "project": "XXX",
+                    "meterial": "XXX",
+                    "isAbnormal": "0",
+                    "pictures": [
+                        {
+                            "pictureID": 149418,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149418",
+                            "isAbnormal": 0
+                        },
+                        {
+                            "pictureID": 149419,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149419",
+                            "isAbnormal": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        "carHistoryList": [{
+            "orderResultID": 1,
+            "lastTimeInShop": 123123,
+            "accidentsNum": 1,
+            "kilometers": null,
+            "odometerStatus": 1,
+            "structuralComponentStatus": 0,
+            "airBagStatus": 1,
+            "queryTime": 1213423423,
+            "floodStatus":-1,
+            "engineStatus": 1,
+            "resultStatus": 1,
+            "resultType": 2,
+            "pictureList": [{
+                "pictureID": 1,
+                "picturePath": "http://private4s.beitaijf.net/download?fileID=149127",
+                "isAbnormal": 1
+            },{
+                "pictureID": 2,
+                "picturePath": "http://private4s.beitaijf.net/download?fileID=149128",
+                "isAbnormal": 0
+            }],
+            "recordList":[
+                {
+                    "date": "2016-09-19",
+                    "kilometers": "10000",
+                    "type": "XXX",
+                    "project": "XXX",
+                    "meterial": "XXX",
+                    "isAbnormal": "0",
+                    "pictures": [
+                        {
+                            "pictureID": 149418,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149133",
+                            "isAbnormal": 0
+                        }
+                    ]
+                },{
+                    "date": "2016-09-19",
+                    "kilometers": "10000",
+                    "type": "XXX",
+                    "project": "XXX",
+                    "meterial": "XXX",
+                    "isAbnormal": "0",
+                    "pictures": [
+                        {
+                            "pictureID": 149418,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149418",
+                            "isAbnormal": 0
+                        },
+                        {
+                            "pictureID": 149419,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149419",
+                            "isAbnormal": 0
+                        }
+                    ]
+                }
+            ],
+            "describe": "啊沙发dads尽快发啊打发快来升级地方哈深刻搭街坊撒肯定就会发 地方皇家卡森的"
+        }],
+        "orderHistoryList": [{
+            "orderResultID": 11111,
+            "lastTimeInShop": 123123123123,
+            "queryTime": 123123123123,
+            "accidentsNum": 5,
+            "kilometers": 10000,
+            "odometerStatus": 0,
+            "floodStatus": -1,
+            "structuralComponentStatus": 0,
+            "airBagStatus": 0,
+            "engineStatus": 1,
+            "queryerName": "郦庭",
+            "pictureList": [{
+                "pictureID": 1,
+                "picturePath": "http://private4s.beitaijf.net/download?fileID=149128",
+                "isAbnormal": 0
+            },{
+                "pictureID": 2,
+                "picturePath": "http://private4s.beitaijf.net/download?fileID=149129",
+                "isAbnormal": 1
+            }],
+            "resultType": 2,
+            "recordList":[
+                {
+                    "date": "2016-09-19",
+                    "kilometers": "10000",
+                    "type": "XXX",
+                    "project": "XXX",
+                    "meterial": "XXX",
+                    "isAbnormal": "0",
+                    "pictures": [
+                        {
+                            "pictureID": 149418,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149112",
+                            "isAbnormal": 0
+                        }
+                    ]
+                },{
+                    "date": "2016-09-19",
+                    "kilometers": "10000",
+                    "type": "XXX",
+                    "project": "XXX",
+                    "meterial": "XXX",
+                    "isAbnormal": "1",
+                    "pictures": [
+                        {
+                            "pictureID": 149418,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149418",
+                            "isAbnormal": 0
+                        },
+                        {
+                            "pictureID": 149419,
+                            "picturePath": "http://private4s.beitaijf.net/download?fileID=149419",
+                            "isAbnormal": 0
+                        }
+                    ]
+                }
+            ],
+            "describe": "报告简述报告简述报告简述报告简述报告简述报告简述报告简述报告简述报告简述",
+            "isRedistribute": 0,
+            "resultStauts": -1
+        }],
+        "processRecordList": [{
+            "processTime": 12124124112312,
+            "processProjectTypeValue": 1,
+            "operator": "郦庭",
+            "acceptUserName": "董小钗",
+            "acceptUserTypeValue": 2,
+            "remark": "备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注",
+            "redistributeNum": 2
+        },{
+            "processTime": 12124124112312,
+            "processProjectTypeValue": 1,
+            "operator": "郦庭",
+            "acceptUserName": "刘爱霞",
+            "acceptUserTypeValue": 2,
+            "remark": "备注备注备注备注备注备注备注备注备注备注备注备注备备注备注备注备注备注备注",
+            "redistributeNum": 2
+        },{
+            "processTime": 12124124112312,
+            "processProjectTypeValue": 1,
+            "operator": "郦庭",
+            "acceptUserName": "谢中斌",
+            "acceptUserTypeValue": 2,
+            "remark": "备注备注备注备注备注备注备注备注备注备注备注备注备备注备注备注备注备注备注",
+            "redistributeNum": 2
+        }]
+    }
+}

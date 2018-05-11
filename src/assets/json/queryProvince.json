@@ -1,0 +1,27 @@
+{
+    "code": 1,
+    "message": "成功",
+    "object": [
+        {
+            "provinceCode": 123,
+            "provinceName": "浙江",
+            "id": 1
+        },{
+            "provinceCode": 124,
+            "provinceName": "江苏",
+            "id": 2
+        },{
+            "provinceCode": 125,
+            "provinceName": "贵州",
+            "id": 3
+        },{
+            "provinceCode": 126,
+            "provinceName": "云南",
+            "id": 4
+        },{
+            "provinceCode": 127,
+            "provinceName": "四川",
+            "id": 5
+        }
+    ]
+}

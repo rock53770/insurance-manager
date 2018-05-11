@@ -1,0 +1,152 @@
+{
+    "code": 1,
+    "message": "成功!",
+    "object": [
+    {
+        "item": 0,
+        "type": "不限定",
+        "commercialCommissionType": null,
+        "rebateType": null,
+        "initPoint": null,
+        "feePoint": null,
+        "platformExtraPoint": null,
+        "disposableFeePoint": null,
+        "realPoint": null,
+        "id": 1
+    },
+    {
+        "item": 0,
+        "type": "出险1次",
+        "commercialCommissionType": null,
+        "rebateType": null,
+        "initPoint": null,
+        "feePoint": null,
+        "platformExtraPoint": null,
+        "disposableFeePoint": null,
+        "realPoint": null,
+        "id": 2
+    },
+    {
+        "item": 0,
+        "type": "出险2次",
+        "commercialCommissionType": null,
+        "rebateType": null,
+        "initPoint": null,
+        "feePoint": null,
+        "platformExtraPoint": null,
+        "disposableFeePoint": null,
+        "realPoint": null,
+        "id": 3
+    },
+    {
+        "item": 0,
+        "type": "出险3次及以上",
+        "commercialCommissionType": null,
+        "rebateType": null,
+        "initPoint": null,
+        "feePoint": null,
+        "platformExtraPoint": null,
+        "disposableFeePoint": null,
+        "realPoint": null,
+        "id": 4
+    },
+    {
+        "item": 1,
+        "type": "不限定",
+        "commercialCommissionType": null,
+        "rebateType": null,
+        "initPoint": null,
+        "feePoint": null,
+        "platformExtraPoint": null,
+        "disposableFeePoint": null,
+        "realPoint": null,
+        "id": 5
+    },
+    {
+        "item": 1,
+        "type": "出险1次",
+        "commercialCommissionType": null,
+        "rebateType": null,
+        "initPoint": null,
+        "feePoint": null,
+        "platformExtraPoint": null,
+        "disposableFeePoint": null,
+        "realPoint": null,
+        "id": 6
+    },
+    {
+        "item": 1,
+        "type": "出险2次",
+        "commercialCommissionType": null,
+        "rebateType": null,
+        "initPoint": null,
+        "feePoint": null,
+        "platformExtraPoint": null,
+        "disposableFeePoint": null,
+        "realPoint": null,
+        "id": 7
+    },
+    {
+        "item": 1,
+        "type": "出险3次及以上",
+        "commercialCommissionType": null,
+        "rebateType": null,
+        "initPoint": null,
+        "feePoint": null,
+        "platformExtraPoint": null,
+        "disposableFeePoint": null,
+        "realPoint": null,
+        "id": 8
+    },
+    {
+        "item": 2,
+        "type": "不限定",
+        "commercialCommissionType": null,
+        "rebateType": null,
+        "initPoint": null,
+        "feePoint": null,
+        "platformExtraPoint": null,
+        "disposableFeePoint": null,
+        "realPoint": null,
+        "id": 9
+    },
+    {
+        "item": 2,
+        "type": "出险1次",
+        "commercialCommissionType": null,
+        "rebateType": null,
+        "initPoint": null,
+        "feePoint": null,
+        "platformExtraPoint": null,
+        "disposableFeePoint": null,
+        "realPoint": null,
+        "id": 10
+    },
+    {
+        "item": 2,
+        "type": "出险2次",
+        "commercialCommissionType": null,
+        "rebateType": null,
+        "initPoint": null,
+        "feePoint": null,
+        "platformExtraPoint": null,
+        "disposableFeePoint": null,
+        "realPoint": null,
+        "id": 11
+    },
+    {
+        "item": 2,
+        "type": "出险3次及以上",
+        "commercialCommissionType": null,
+        "rebateType": null,
+        "initPoint": null,
+        "feePoint": null,
+        "platformExtraPoint": null,
+        "disposableFeePoint": null,
+        "realPoint": null,
+        "id": 12
+    }],
+    "map":
+    {},
+    "handelEntity": null
+}

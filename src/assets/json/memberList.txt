@@ -1,0 +1,67 @@
+{
+    "code": 1,
+    "message": "",
+    "object": [
+        {
+            "id":"10",
+            "appCode": "zxcvbnmasdfghjklqwertyuiop123as2",
+            "mobile":"13565442358",
+            "userName":"张三1",
+            "province":"浙江",
+            "city":"杭州",
+            "deviceType":"0",
+            "loginStatus":"1"
+        },
+        {
+            "id":"11",
+            "appCode": "zxcvbnmasdfghjklqwertyuiop123as2",
+            "mobile":"13565442358",
+            "userName":"张三2",
+            "province":"浙江",
+            "city":"杭州",
+            "deviceType":"0",
+            "loginStatus":"1"
+        },
+        {
+            "id":"12",
+            "appCode": "zxcvbnmasdfghjklqwertyuiop123as2",
+            "mobile":"13565442358",
+            "userName":"张三3",
+            "province":"浙江",
+            "city":"杭州",
+            "deviceType":"0",
+            "loginStatus":"1"
+        },
+        {
+            "id":"13",
+            "appCode": "zxcvbnmasdfghjklqwertyuiop123as2",
+            "mobile":"13565442358",
+            "userName":"张三4",
+            "province":"浙江",
+            "city":"杭州",
+            "deviceType":"0",
+            "loginStatus":"1"
+        },
+        {
+            "id":"14",
+            "appCode": "zxcvbnmasdfghjklqwertyuiop123as2",
+            "mobile":"13565442358",
+            "userName":"张三5",
+            "province":"浙江",
+            "city":"杭州",
+            "deviceType":"0",
+            "loginStatus":"1"
+        }
+    ],
+    "page": {
+        "currentPage": 1,
+        "pageRecords": 10,
+        "totalPages": 18,
+        "totalRecords": 174,
+        "startRecord": 0,
+        "nextPage": 2,
+        "previousPage": 0,
+        "hasNextPage": true,
+        "hasPreviousPage": true
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "code": 1,
+    "message": "",
+    "object": [
+        {
+            "code": "01",
+            "orderId": 412412,
+            "CJDId": 21312312,
+            "customerAccountID": 1,
+            "brandName": "宝马",
+            "brandFactoryName":"宝马",
+            "customerName": "言承旭",
+            "orderStatus": 5,
+            "CJDStatus": 0,
+            "price": 14,
+            "commitTime": 32132131231,
+            "feedbackTime": 313123123412,
+            "mobile": "1123123123120",
+            "orderAllNum": 12312,
+            "successOrderNum": 1231,
+            "failOrderNum": 132,
+            "noRecordOrderNum": 123,
+            "timeoutOrderNum": 24342,
+            "revertOrderNum": 1231,
+            "reassignmentOrderNum": 213231
+
+        },{
+            "code": "02",
+            "customerAccountID": 2,
+            "brandName": "林肯",
+            "customerName": "吴彦祖",
+            "mobile": "18815288276",
+            "orderAllNum": 12312,
+            "successOrderNum": 1231,
+            "failOrderNum": 132,
+            "noRecordOrderNum": 123,
+            "timeoutOrderNum": 24342,
+            "revertOrderNum": 1231,
+            "reassignmentOrderNum": 213231
+        },{
+            "code": "03",
+            "customerAccountID": 3,
+            "brandName": "卡迪拉克",
+            "customerName": "列夫托尔斯泰",
+            "mobile": "911",
+            "orderAllNum": 12312,
+            "successOrderNum": 1231,
+            "failOrderNum": 132,
+            "noRecordOrderNum": 123,
+            "timeoutOrderNum": 24342,
+            "revertOrderNum": 1231,
+            "reassignmentOrderNum": 213231
+        },{
+            "code": "04",
+            "customerAccountID": 4,
+            "brandName": "红旗",
+            "customerName": "周恩来",
+            "mobile": "110",
+            "orderAllNum": 12312,
+            "successOrderNum": 1231,
+            "failOrderNum": 132,
+            "noRecordOrderNum": 123,
+            "timeoutOrderNum": 24342,
+            "revertOrderNum": 1231,
+            "reassignmentOrderNum": 213231
+        }
+    ],
+    "page": {
+        "currentPage": 1,
+        "pageRecords": 10,
+        "totalPages": 18,
+        "totalRecords": 174,
+        "startRecord": 0,
+        "nextPage": 2,
+        "previousPage": 0,
+        "hasNextPage": true,
+        "hasPreviousPage": true
+    }
+}

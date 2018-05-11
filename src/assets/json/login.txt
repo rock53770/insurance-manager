@@ -1,0 +1,13 @@
+﻿{
+    "code": 1,
+    "message": "登录成功",
+    "object": {
+        "id": 1,
+        "empName": "董叉叉qw ",
+        "role": 2,
+        "empID": "0001"
+    },
+    "map": {
+    	"callback": "alert('这是服务端传回来的代码');"
+    }
+}

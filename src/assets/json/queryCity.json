@@ -1,0 +1,47 @@
+{
+    "code": 1,
+    "message": "成功",
+    "object": [
+        {
+            "provinceCode": "124",
+            "provinceName": "浙江啥啥啥",
+            "cityCode": 123,
+            "cityName": "杭州"
+        },{
+            "provinceCode": "124",
+            "provinceName": "浙江",
+            "cityCode": 3435,
+            "cityName": "嘉兴"
+        },{
+            "provinceCode": "123",
+            "provinceName": "浙江",
+            "cityCode": 5435,
+            "cityName": "湖州"
+        },{
+            "provinceCode": "123",
+            "provinceName": "浙江",
+            "cityCode": 64326,
+            "cityName": "丽水"
+        },{
+            "provinceCode": "125",
+            "provinceName": "浙江",
+            "cityCode": 643264,
+            "cityName": "温州"
+        },{
+            "provinceCode": "125",
+            "provinceName": "浙江",
+            "cityCode": 1,
+            "cityName": "湖州"
+        },{
+            "provinceCode": "127",
+            "provinceName": "浙江",
+            "cityCode": 32,
+            "cityName": "丽水"
+        },{
+            "provinceCode": "127",
+            "provinceName": "浙江",
+            "cityCode": 21,
+            "cityName": "温州"
+        }
+    ]
+}

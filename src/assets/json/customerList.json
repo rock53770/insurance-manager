@@ -1,0 +1,25 @@
+{
+    "code": 1,
+    "message": "",
+    "object": [
+        {
+            "customerID": 1,
+            "customerName": "合作商1"
+        },{
+            "customerID": 2,
+            "customerName": "合作商2"
+        },{
+            "customerID": 3,
+            "customerName": "合作商3"
+        },{
+            "customerID": 4,
+            "customerName": "合作商4"
+        },{
+            "customerID": 5,
+            "customerName": "合作商5"
+        },{
+            "customerID": 6,
+            "customerName": "合作商6"
+        }
+    ]
+}

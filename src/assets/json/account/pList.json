@@ -1,0 +1,104 @@
+{
+    "code": 1,
+    "message": "提交成功",
+    "object": [
+    	{
+    		"providerID": 123123,
+    		"providerAccountID": 1212,
+			"providerAccountID": 21,
+			"providerName": "郑容和",
+			"mobile": 18815288276,
+			"supportBrands": [
+				{
+					"brandID": 1,
+					"brandName": "奔驰",
+					"brandFactoryID": 2,
+					"brandFactoryName": "野马",
+					"price": 12
+				}
+			],
+			"maxOrderAcceptNum": 54,
+			"priority": 3,
+			"workStatus": 1,
+			"processTime": 1231231231231,
+			"accountStatus": 0
+    	},{
+    		"providerID": 123123,
+    		"providerAccountID": 1212,
+			"providerAccountID": 21,
+			"providerName": "郑容和",
+			"mobile": 18815288276,
+			"supportBrands": [
+				{
+					"brandID": 1,
+					"brandName": "奔驰",
+					"brandFactoryID": 2,
+					"brandFactoryName": "野马",
+					"price": 12
+				}
+			],
+			"maxOrderAcceptNum": 54,
+			"priority": 3,
+			"workStatus": 1,
+			"processTime": 1231231231231,
+			"accountStatus": 0
+    	},{
+    		"providerID": 123123,
+    		"providerAccountID": 1212,
+			"providerAccountID": 21,
+			"providerName": "郑容和",
+			"mobile": 18815288276,
+			"supportBrands": [
+				{
+					"brandID": 1,
+					"brandName": "奔驰",
+					"brandFactoryID": 2,
+					"brandFactoryName": "野马",
+					"price": 12
+				}
+			],
+			"maxOrderAcceptNum": 54,
+			"priority": 3,
+			"workStatus": 1,
+			"processTime": 12312231,
+			"accountStatus": -2
+    	},{
+    		"providerID": 123123,
+    		"providerAccountID": 1212,
+			"providerAccountID": 21,
+			"providerName": "郑容和",
+			"mobile": 18815288276,
+			"supportBrands": [
+				{
+					"brandID": 1,
+					"brandName": "奔驰",
+					"brandFactoryID": 2,
+					"brandFactoryName": "野马",
+					"price": 12
+				},{
+					"brandID": 1,
+					"brandName": "奔驰",
+					"brandFactoryID": 2,
+					"brandFactoryName": "野马",
+					"price": 12
+				}
+			],
+			"maxOrderAcceptNum": 54,
+			"priority": 3,
+			"workStatus": 1,
+			"processTime": 1231231231231,
+			"accountStatus": -1
+    	}
+    ],
+    "page": {
+        "currentPage": 1,
+        "pageRecords": 10,
+        "totalPages": 18,
+        "totalRecords": 174,
+        "startRecord": 0,
+        "nextPage": 2,
+        "previousPage": 0,
+        "hasNextPage": true,
+        "hasPreviousPage": true
+    }
+}

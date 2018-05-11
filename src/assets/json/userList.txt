@@ -1,0 +1,67 @@
+{
+    "code": 1,
+    "message": "",
+    "object": [
+        {
+            "appCode": "zxcvbnmasdfghjklqwertyuiop123as2",
+            "mobile":"13565442358",
+            "userName":"张三",
+            "province":"浙江",
+            "city":"杭州",
+            "firstOpenAppTime":"2016-05-01 01:04:42",
+            "deviceType":"0",
+            "loginStatus":"0"
+        },
+        {
+            "appCode": "zxcvbnmasdfghjklqwertyuiop123as2",
+            "mobile":"13565442358",
+            "userName":"张三",
+            "province":"浙江",
+            "city":"杭州",
+            "firstOpenAppTime":"2016-05-01 01:04:42",
+            "deviceType":"0",
+            "loginStatus":"1"
+        },
+        {
+            "appCode": "zxcvbnmasdfghjklqwertyuiop123as2",
+            "mobile":"13565442358",
+            "userName":"张三",
+            "province":"浙江",
+            "city":"杭州",
+            "firstOpenAppTime":"2016-05-01 01:04:42",
+            "deviceType":"1",
+            "loginStatus":"0"
+        },
+        {
+            "appCode": "zxcvbnmasdfghjklqwertyuiop123as2",
+            "mobile":"13565442358",
+            "userName":"张三",
+            "province":"浙江",
+            "city":"杭州",
+            "firstOpenAppTime":"2016-05-01 01:04:42",
+            "deviceType":"0",
+            "loginStatus":"0"
+        },
+        {
+            "appCode": "zxcvbnmasdfghjklqwertyuiop123as2",
+            "mobile":"13565442358",
+            "userName":"张三",
+            "province":"浙江",
+            "city":"杭州",
+            "firstOpenAppTime":"2016-05-01 01:04:42",
+            "deviceType":"0",
+            "loginStatus":"0"
+        }
+    ],
+    "page": {
+        "currentPage": 1,
+        "pageRecords": 10,
+        "totalPages": 18,
+        "totalRecords": 174,
+        "startRecord": 0,
+        "nextPage": 2,
+        "previousPage": 0,
+        "hasNextPage": true,
+        "hasPreviousPage": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "code": 1,
+    "message": "提交成功",
+    "object": {
+    	"waitAcceptCount": 1,
+    	"waitQueryCount": 3,
+    	"waitCheckCount":3,
+    	"exceptionCount": 231,
+    	"refundWaitCheckCount": 543
+    }
+}

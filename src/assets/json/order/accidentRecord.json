@@ -1,0 +1,69 @@
+{
+    "code": 1,
+    "message": "",
+    "object": [
+        {
+            "claimCount": "1",
+            "renewCount": "2",
+            "repairCount": "33",
+            "renewMoney": "120",
+            "repairMoney": "150",
+            "claimMoney": "1000",
+            "claimRecordOrderVoList": {
+                "dangerTime": "2017-1-1",
+                "vehicleModel": "保时捷",
+                "damageMoney": "5000",
+                "repairAmount": "10000",
+                "renewalAmount": "2000",
+                "otherAmount": "100",
+                "claimDetailsOrderVoList": {
+                    "itemName": "理赔",
+                    "itemType": "理赔类型",
+                    "itemAmount": "10"
+                }
+            }
+        },
+        {
+            "claimCount": "1",
+            "renewCount": "2",
+            "repairCount": "33",
+            "renewMoney": "120",
+            "repairMoney": "150",
+            "claimMoney": "1000",
+            "claimRecordOrderVoList": {
+                "dangerTime": "2017-1-1",
+                "vehicleModel": "保时捷",
+                "damageMoney": "5000",
+                "repairAmount": "10000",
+                "renewalAmount": "2000",
+                "otherAmount": "100",
+                "claimDetailsOrderVoList": {
+                    "itemName": "理赔",
+                    "itemType": "理赔类型",
+                    "itemAmount": "10"
+                }
+            }
+        },
+        {
+            "claimCount": "1",
+            "renewCount": "2",
+            "repairCount": "33",
+            "renewMoney": "120",
+            "repairMoney": "150",
+            "claimMoney": "1000",
+            "claimRecordOrderVoList": {
+                "dangerTime": "2017-1-1",
+                "vehicleModel": "保时捷",
+                "damageMoney": "5000",
+                "repairAmount": "10000",
+                "renewalAmount": "2000",
+                "otherAmount": "100",
+                "claimDetailsOrderVoList": {
+                    "itemName": "理赔",
+                    "itemType": "理赔类型",
+                    "itemAmount": "10"
+                }
+            }
+        }
+    ]
+}
