@@ -1,23 +1,18 @@
 
-// import 'jquery.min';
+import api from './request'
+
 
 var service = {
     companySearch(data){
-        var URL      = "/agency/company/findAll",
-            TEST_URL = "../../assets/json/companySearch.json";
-		return $.ajax({
-            method: 'get',
-            // testUrl: TEST_URL,
-            url: TEST_URL,
-            data: data||{}
-		})
+        return api({
+            method: 'post',
+            url: '/system/logi1n',
+            params: data,
+        });
 	},
     findCompany(){
 
     },
-
-
-
 };
 
 
