@@ -1,10 +1,11 @@
 
 import Vue from 'vue'
-import iView from 'iview';
 import 'assets/css/common.css';
 import 'assets/js/jquery.min';
-import 'iview/dist/styles/iview.css';
-Vue.use(iView);
+import ElementUI from 'element-ui';
+import 'element-ui/lib/theme-chalk/index.css';
+
+Vue.use(ElementUI);
 
 import App from './addApp.vue'
 
