@@ -1,7 +1,7 @@
 
 import Vue from 'vue'
 import 'assets/css/common.css';
-import 'assets/js/jquery.min';
+// import 'assets/js/jquery.min';
 import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
 
