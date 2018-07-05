@@ -27,8 +27,8 @@ var webpackConfig = merge(baseWebpackConfig, {
   //devtool: config.build.productionSourceMap ? '#source-map' : false,
   output: {
     path: config.build.assetsRoot,
-    filename: utils.assetsPath('js/[name].[chunkhash].js'),
-    chunkFilename: utils.assetsPath('js/[id].[chunkhash].js')
+    filename: utils.assetsPath('js/[name].js'),
+    chunkFilename: utils.assetsPath('js/[id].js')
     // filename: utils.assetsPath('js/[name].js'),
     // chunkFilename: utils.assetsPath('js/[id].js')
   },
@@ -45,7 +45,7 @@ var webpackConfig = merge(baseWebpackConfig, {
     }),
     // extract css into its own file
     new ExtractTextPlugin({
-        filename: utils.assetsPath('css/[name].[contenthash].css')
+        filename: utils.assetsPath('css/[name].css')
     }),
     new OptimizeCSSPlugin(),
     // Compress extracted CSS. We are using this plugin so that possible
@@ -150,7 +150,7 @@ for (var pathname in pages) {
     template: pages[pathname], // 模板路径
     chunks: ['manifest','vendor',pathname], // 每个html引用的js模块
     inject: true,              // js插入位置
-	// hash:true,
+	hash:true,
     // chunksSortMode: 'auto'
   };
  
